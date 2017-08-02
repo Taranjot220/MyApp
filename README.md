@@ -8,6 +8,11 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
+Features
+--------
+1. A single screen Application
+2. Displays a message "Hello World" on the screen on the top left corner 
+
 Prerequisites
 -------------
 
@@ -24,6 +29,10 @@ Authors
 -------
 
 Taranjot Singh Sarna
+
+Screenshot of App
+-----------------
+![Screenshot](https://github.com/Taranjot220/HappyBirthdayApp/tree/master/app/src/main/res/drawable/screen1.png?raw=false "Screenshot")
 
 License
 -------
