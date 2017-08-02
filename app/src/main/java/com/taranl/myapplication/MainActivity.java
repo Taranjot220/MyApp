@@ -3,7 +3,7 @@ package com.taranl.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {          //MainActivity class defined
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
